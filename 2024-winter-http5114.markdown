@@ -4,9 +4,9 @@
 
 ### Students
 
-|                                          | Name        | Profile                               |
-| ---------------------------------------- | ----------- | ------------------------------------- |
-| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+|                                          | Name          | Profile                               |
+| ---------------------------------------- | ------------- | ------------------------------------- |
+| ![dishakolapte](images/dishakolapte.png) | Disha Kolapte | [dishakolapte](students/dishakolapte) |
 
 ### Faculty
 
